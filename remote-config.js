@@ -1,0 +1,1 @@
+globalThis.BOOK_REMOTE_CONFIG = {"mode": "remote", "origin": "https://dnrtrvujyonaytsexaba.supabase.co", "publicKey": "sb_publishable_-wea84icX6Q6Snsnu3Z6eA_C79MuQ3r", "profile": "authorized-content"};
